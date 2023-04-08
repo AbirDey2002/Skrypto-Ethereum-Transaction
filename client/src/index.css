@@ -16,26 +16,26 @@ body {
 .gradient-bg-welcome {
   background-color:#0f0e13;
   background-image: 
-    linear-gradient(146deg,#3c21b7,#8b63da,#cb98ed,#cfcbd2);
+    linear-gradient(146deg,#92CD00,#FFCF79,#E5E4D7,#2C6700);
     
 }
 
 .gradient-bg-services {
   background-color:#0f0e13;
-  background-image: linear-gradient(26deg,#3c21b7,#8b63da,#cb98ed,#cfcbd2);
+  background-image: linear-gradient(26deg,#92CD00,#FFCF79,#E5E4D7,#2C6700);
 
 }
 
 .gradient-bg-transactions {
   background-color: #0f0e13;
   background-image: 
-    linear-gradient(135deg,#3c21b7,#8b63da,#cb98ed,#cfcbd2);
+    linear-gradient(135deg,#92CD00,#FFCF79,#E5E4D7,#2C6700);
 }
 
 .gradient-bg-footer {
   background-color: #0f0e13;
   background-image: 
-    linear-gradient(11deg,#3c21b7,#8b63da,#cb98ed,#cfcbd2);
+    linear-gradient(11deg,#92CD00,#FFCF79,#E5E4D7,#2C6700);
 }
 
 .blue-glassmorphism {
