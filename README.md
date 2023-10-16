@@ -1,6 +1,6 @@
 # Skrypto-Ethereum-Transaction
 
-![Thumbnail](/abir-ethereum.png)
+![Thumbnail](https://github.com/AbirDey2002/Skrypto-Ethereum-Transaction/blob/main/abir-ethereum.png)
 
 Co-Author - ssruti1
 
