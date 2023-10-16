@@ -1,7 +1,5 @@
 # Skrypto-Ethereum-Transaction
 
-![Thumbnail](https://github.com/AbirDey2002/Skrypto-Ethereum-Transaction/blob/main/abir-ethereum.png)
-
 Co-Author - ssruti1
 
 Ethereum Wallet to Wallet transfer for low cost price
